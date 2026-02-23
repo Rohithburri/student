@@ -10,3 +10,5 @@ python-decouple==3.8
 pytz==2025.2
 sqlparse==0.4.4
 typing-extensions==4.7.1
+gunicorn
+django
